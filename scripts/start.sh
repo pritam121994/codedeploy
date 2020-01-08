@@ -1,2 +1,2 @@
 #!/bin/bash
-yum start httpd
+systemctl start httpd
